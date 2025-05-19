@@ -1,7 +1,8 @@
 # Beo Echo
 
 <div align="center">
-  <img src="https://github.com/yogasw/beo-echo-release/raw/main/images/logo.png" alt="Beo Echo Logo" width="200px" />
+  <!-- Logo placeholder - You can add a logo image later -->
+  <h1>🔄 Beo Echo</h1>
   <h3>A Powerful API Mocking and Request Forwarding Service</h3>
   <p>Create mock APIs, forward requests, and manage API behaviors with ease</p>
   
@@ -45,14 +46,14 @@ docker run -p 8080:8080 ghcr.io/yogasw/beo-echo:latest
 
 ## 📸 Screenshots
 
-### Dashboard
-![Dashboard](images/dashboard.png)
+### Login Screen
+![Login](images/login.png)
+
+### API Routes Configuration
+![Routes](images/routes.png)
 
 ### Request Logs
 ![Logs](images/logs.png)
-
-### API Configuration
-![Config](images/config.png)
 
 ## 📜 License
 
